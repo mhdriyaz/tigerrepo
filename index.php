@@ -1,5 +1,5 @@
 <?php
 
-echo "GIT TEST";
+echo "GIT TEST Today";
 
 ?>
